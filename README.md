@@ -20,3 +20,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 
 This is Softinnovas Project Batch 8
+for VS to GIT
