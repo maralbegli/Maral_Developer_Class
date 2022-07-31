@@ -1,0 +1,4 @@
+SELECT Id, name, Project_Name__C, Status__c FROM Salesforce_project__C
+
+//select id, name, MailingCity  FROM Contact WHERE Name like '%A%'
+

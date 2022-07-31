@@ -1,0 +1,6 @@
+ SELECT id, name, phone  FROM Account WHERE phone !=NULL 
+
+ SELECT id, name, phone, website  FROM Account WHERE (phone !=NULL OR website !=NULL) AND AccountNumber !=NULL
+
+ SELECT Id, name, Subject__c, status__c, priority__c FROM salesforce_ticket__c WHERE status__c!='' and priority__c='High'
+ 
